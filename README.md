@@ -22,4 +22,4 @@ Data Preprocessing: Caption data is preprocessed by tokenizing, converting to lo
 
 Custom Data Generator: A custom data generator (CustomDataGenerator) loads data in batches to accommodate memory limitations and facilitate large-scale model training.
 
-Model Optimization: Dropout and early stopping prevent overfitting and enhance the model's generalization capabilit
+Model Optimization: Dropout and early stopping prevent overfitting and enhance the model's generalization
